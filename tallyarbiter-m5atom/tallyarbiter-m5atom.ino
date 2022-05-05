@@ -22,11 +22,11 @@ Preferences preferences;
 */
 
 //Wifi SSID and password
-const char * networkSSID = "YourNetwork";
-const char * networkPass = "YourPassword";
+const char * networkSSID = "Buster";
+const char * networkPass = "$h@b@ng_@12";
 
 //Tally Arbiter Server
-const char * tallyarbiter_host = "TALLYARBITERSERVERIP";
+const char * tallyarbiter_host = "192.168.1.234";
 const int tallyarbiter_port = 4455;
 
 //Local Default Camera Number
